@@ -1,7 +1,7 @@
 // page title = baseTile + content title
-config.baseTitle = 'Go Web 编程'
-config.siteName = '《Go Web 编程》'
-config.siteDes = 'Go Web 编程的描述信息'
+config.baseTitle = 'PHPOpenCV'
+config.siteName = 'PHPOpenCV'
+config.siteDes = ''
 config.siteKey = 'go-web-dev'
 config.logoUrl = location.pathname
 
@@ -20,5 +20,6 @@ config.catelogPage = 'SUMMARY.md'
 config.defaultPage = 'README.md'
 config.makeTOC = true
 config.emptyData = 'No content to display!'
+config.anchorIcon = '#'
 
 // config.dataUrl = 'http://0.0.0.0:8088/doc/{lang}/'
